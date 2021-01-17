@@ -1,1 +1,3 @@
 # flashcard-for-spanish
+
+This app helps the user learn basic spanish words. The data file has the most used spanish words and the corresponding english word. When the user starts using the app he/she is shown a word and given a fixed amount of time, once this time completes the corresponding english word is displayed. If the user got the english word right they can click on the tick mark and the word is removed from the set else clicking on the cross mark puts back the word into the list of unknown words. The app has 100 most frequently used words fed into it. Once the user completes the set it can be updated by just updating the excel sheet under data directory. 
